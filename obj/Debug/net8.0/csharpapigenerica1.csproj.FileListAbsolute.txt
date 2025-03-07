@@ -78,3 +78,4 @@ C:\Users\jdpav\OneDrive\Escritorio\Proyecto2\csharpapigenerica1\obj\Debug\net8.0
 C:\Users\jdpav\OneDrive\Escritorio\Proyecto2\csharpapigenerica1\obj\Debug\net8.0\csharpapigenerica1.pdb
 C:\Users\jdpav\OneDrive\Escritorio\Proyecto2\csharpapigenerica1\obj\Debug\net8.0\csharpapigenerica1.genruntimeconfig.cache
 C:\Users\jdpav\OneDrive\Escritorio\Proyecto2\csharpapigenerica1\obj\Debug\net8.0\ref\csharpapigenerica1.dll
+C:\Users\jdpav\OneDrive\Escritorio\Proyecto2\csharpapigenerica1\obj\Debug\net8.0\csharpapigenerica1.sourcelink.json
